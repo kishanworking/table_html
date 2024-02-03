@@ -1,0 +1,42 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: ; */
+}
+
+body{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.main{
+    display: flex;
+    
+}
+.mainn{
+    display: flex;
+}
+
+.inner-right-parent{
+    display: flex;
+}
+
+img{
+    width: 300px;
+    
+
+}
+
+.imgtop{
+    margin-left: 32%;
+}
+
+
