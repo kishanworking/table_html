@@ -30,7 +30,7 @@ body{
 }
 
 img{
-    width: 300px;
+    width: 200px;
     
 
 }
@@ -40,3 +40,16 @@ img{
 }
 
 
+
+table {
+    border-collapse: collapse;
+}
+table, 
+th, 
+td {
+    border: 1px solid black;
+}
+th, 
+td {
+    padding: 1px;
+}
